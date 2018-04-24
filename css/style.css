@@ -1,0 +1,15 @@
+/*Navbar Logo styling*/
+.img-fuid {
+  width: 5px;
+  height: auto;
+}
+
+nav {
+  background-color: grey;
+}
+
+/*Body stylings*/
+#wrapper {
+  width: 90%;
+  margin: 50px auto;
+}
